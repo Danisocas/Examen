@@ -1,4 +1,4 @@
-from logica.logica import gestorPartida
+from lobo_sucio import gestorPartida
 
 def main():
     juego = gestorPartida()
